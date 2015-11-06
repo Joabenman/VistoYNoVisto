@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/insertar"
+        android:icon="@drawable/ic_insertar"
+        app:showAsAction="always"
+        android:title="Añadir Libro..." />
+    <item
+        android:id="@+id/cargar"
+        android:icon="@drawable/ic_cargar"
+        app:showAsAction="always"
+        android:title="Cargar Datos" />
+    <item
+        android:id="@+id/guardar"
+        android:icon="@drawable/ic_guardar"
+        app:showAsAction="always"
+        android:title="Guardar Datos" />
+    <item
+        android:id="@+id/importar"
+        android:icon="@drawable/ic_importar"
+        app:showAsAction="always"
+        android:title="Importar " />
+
+    <item
+        android:id="@+id/exportar"
+        android:icon="@drawable/ic_exportar"
+        app:showAsAction="always"
+        android:title="Exportar" />
+
+</menu>

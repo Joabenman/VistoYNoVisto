@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">VistoyNoVisto</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="insertar">Insertar</string>
+    <string name="editar">Editar</string>
+    <string name="visualizar">Visualizar datos</string>
+    <string name="action_search">Buscar</string>
+     <string name="escribe_algo">Búsqueda por título...</string>
+
+    <string-array name="opciones_array">
+        <item>insertar</item>
+        <item>guardar</item>
+        <item>cargar</item>
+        <item>importar</item>
+        <item>exportar</item>
+    </string-array>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_websearch">Web search</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+
+</resources>
